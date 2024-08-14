@@ -12,6 +12,8 @@
 
 I'm from France 🇫🇷, currently living in the UTC+2 time zone 🌍. I'm passionate about Node.js, TypeScript, open-source projects, electronics, and crafting testable software 💻. When I'm not debugging or building innovative solutions, you can find me immersed in Cyberpunk, gaming, lifting weights 🏋️, or enjoying quality time with my wonderful wife, Cindy ❤️.
 
+[![rmingon's GitHub | Stats](https://stats.quira.sh/rmingon/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=rmingon)
+
 ## 🌱 I’m currently learning
 
 [![<img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust icon" height="100px">](https://www.rust-lang.org/static/images/rust-logo-blk.svg)](https://www.rust-lang.org/)
