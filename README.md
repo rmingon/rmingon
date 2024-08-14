@@ -3,6 +3,7 @@
 [![youtube channel link](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RonanMINGON/videos?app=desktop)
 [![discord server link](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/WkRs3dwa)
 [![linkedin profile link](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronan-mingon-71450464/)
+[![linkedin profile link](https://img.shields.io/badge/NPMJS-000000?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/~rmingon)
 
 ## 🙋‍♂️ About me
 
