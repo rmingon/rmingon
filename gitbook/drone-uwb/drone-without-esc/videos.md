@@ -1,3 +1,5 @@
 # Videos
 
-{% embed url="https://i.ytimg.com/vi/xU5cOpeBPdk/oar2.jpg?rs=AOn4CLB9lMSGuEM_pYlxawmEDtYdHBsKJw&sqp=-oaymwEdCJUDENAFSFWQAgHyq4qpAwwIARUAAIhCcAHAAQY=" %}
+{% embed url="https://www.youtube.com/shorts/mXxCyUH8XUQ" %}
+
+{% embed url="https://www.youtube.com/shorts/XvAniwky4LE" %}
