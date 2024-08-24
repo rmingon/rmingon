@@ -27,6 +27,7 @@
   * [Motor](line-follower/hardware/motor.md)
   * [MCU](line-follower/hardware/mcu.md)
   * [IR system](line-follower/hardware/ir-system.md)
+  * [Battery](line-follower/hardware/battery.md)
 * [PCB](line-follower/pcb.md)
 
 ## Micro mouse
