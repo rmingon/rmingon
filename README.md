@@ -31,4 +31,4 @@ I'm from France 🇫🇷, currently living in the UTC+2 time zone 🌍. I'm pass
 ## 📫 How to reach me
 
 [<img src="assets/envelope.png" height="50px">](mailto:rmingondev@gmail.com)
-[<img src="assets/discord.png" height="50px">](https://discord.gg/WkRs3dwa)
+[<img src="assets/discord.png" height="50px">](https://discord.gg/swgk5KnYTc)
